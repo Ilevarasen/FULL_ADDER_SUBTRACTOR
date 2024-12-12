@@ -2,7 +2,7 @@
 
 ### REG NO:2400688
 
-### EXPERMENT:FULL_ADDER_SUBTRACTOR
+### EXPERMENT 4 :FULL ADDER and FULL SUBTRACTOR
 
 ### AIM:
 
@@ -49,9 +49,13 @@ Borrow out = A'Bin + A'B + BBin
 ### PROCEDURE:
 
 1.Type the program in Quarts software.
+
 2.Compile and run the program.
+
 3.Generate the RTL schematic and save the logic digram.
+
 4.Create nodes for inputs and output to generate the timing digram.
+
 5.For different input combinations generate the timing diagram.
 ### PROGRAM:
 

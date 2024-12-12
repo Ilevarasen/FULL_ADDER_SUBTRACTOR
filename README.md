@@ -48,8 +48,11 @@ Borrow out = A'Bin + A'B + BBin
 
 ### PROCEDURE:
 
-Write the detailed procedure here
-
+1.Type the program in Quarts software.
+2.Compile and run the program.
+3.Generate the RTL schematic and save the logic digram.
+4.Create nodes for inputs and output to generate the timing digram.
+5.For different input combinations generate the timing diagram.
 ### PROGRAM:
 
 ![Screenshot 2024-11-28 115120](https://github.com/user-attachments/assets/3ab473f6-bcc5-4e5b-afaa-7d53789080bd)

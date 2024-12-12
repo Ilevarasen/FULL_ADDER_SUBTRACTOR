@@ -4,8 +4,6 @@
 
 ### EXPERMENT:FULL_ADDER_SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-
 ### AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -30,7 +28,7 @@ Carry = AB + ACin + BCin
 
 ### FIGURE -1 FULL ADDER:
 
-**Full Subtractor**
+### FULL SUBTRACTOE:
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
@@ -40,24 +38,33 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
+### TRUTHTABLE:
+### FULL ADDER:
+![Screenshot 2024-12-12 105807](https://github.com/user-attachments/assets/7bd156b6-462b-4a04-8c93-e0577ab03f3b)
 
-**Procedure**
+### FULL SUBRACTOR:
+![Screenshot 2024-12-12 105819](https://github.com/user-attachments/assets/66eb2e7c-a1ad-44e7-b816-da46bc426f56)
+
+
+### PROCEDURE:
 
 Write the detailed procedure here
 
-**Program:**
+### PROGRAM:
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2024-11-28 115120](https://github.com/user-attachments/assets/3ab473f6-bcc5-4e5b-afaa-7d53789080bd)
 
-**RTL Schematic**
 
-**Output Timing Waveform**
+### TIMING DIAGRAM:
 
-**Result:**
+![Screenshot 2024-11-28 115245](https://github.com/user-attachments/assets/fc964cab-3df2-4446-a143-70402eca03ca)
 
-Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+### RTL:
+![Screenshot 2024-12-12 105707](https://github.com/user-attachments/assets/e2d7a81b-5e86-4431-969d-8f86e65951ed)
+
+### RESULT:
+
+ The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software using verilog programming successfully.
 
 
 
